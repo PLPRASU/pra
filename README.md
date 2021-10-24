@@ -1,1 +1,3 @@
-# pra
+# maven-project
+
+Simple Maven Project
